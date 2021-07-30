@@ -5,6 +5,17 @@
 
 <br/>
 
-### [6월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/6%EC%9B%94/6%EC%9B%94%EC%9D%98%20Miracle.md)
+### [6월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/6%EC%9B%94/6%EC%9B%94%EC%9D%98%20Miracle.md) 
 
-![image-20210703204815821](./img/6월.png)
+![image-20210703204815821](./img/6월.png) 
+
+
+
+### [7월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/6%EC%9B%94/6%EC%9B%94%EC%9D%98%20Miracle.md) 
+
+![image-20210730094747723](./img/7월.png) 
+
+
+
+ 
+

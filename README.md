@@ -26,3 +26,12 @@
 ### [9월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/9%EC%9B%94/9%EC%9B%94%EC%9D%98%20Miracle.md) 
 
 ![image-20210930210932377](./img/9월.png) 
+
+
+
+### [10월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/10%EC%9B%94/9%EC%9B%94%EC%9D%98%20Miracle.md) 
+
+![image-20211031212626435](./img/10월.png) 
+
+
+

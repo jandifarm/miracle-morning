@@ -1,5 +1,21 @@
 # miracle-morning
 
+<br/>
+
+## 22년
+
+### [1월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/1%EC%9B%94/1%EC%9B%94%EC%9D%98%20Miracle.md)
+
+#### 1월 04일 ~ 1월 14일
+
+![](./img/2022_01.png) 
+
+<br/>
+
+#### 1월 18일 ~ 1월 28일
+
+![](./img/2022_01_2.png) 
+
 ## 21년
 
 ### [5월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/05%EC%9B%94/5%EC%9B%94%EC%9D%98%20Miracle%F0%9F%8C%9E.md)
@@ -50,4 +66,3 @@
 
 
 
-## 22년

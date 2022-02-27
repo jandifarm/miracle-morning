@@ -12,7 +12,7 @@
 
 <br/>
 
-### [1월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/1%EC%9B%94/1%EC%9B%94%EC%9D%98%20Miracle.md)
+### [1월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/1%EC%9B%94%EC%9D%98%20Miracle.md)
 
 #### 1월 04일 ~ 1월 14일
 

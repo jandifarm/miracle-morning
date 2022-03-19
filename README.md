@@ -4,7 +4,7 @@
 
 ## 22년
 
-### [3월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/3%EC%9B%94/3%EC%9B%94%EC%9D%98%20Miracle.md)
+### [3월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/3%EC%9B%94%EC%9D%98%20Miracle.md)
 
 #### 3월 02일 ~ 3월 18일
 

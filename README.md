@@ -4,6 +4,12 @@
 
 ## 22년
 
+### [8월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/8%EC%9B%94%EC%9D%98%20Miracle.md)
+
+![](./img/2022_08.png)  
+
+
+
 ### [7월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/7%EC%9B%94%EC%9D%98%20Miracle.md)
 
 #### 7월 18일 ~ 7월 29일

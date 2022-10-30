@@ -4,11 +4,17 @@
 
 ## 22년
 
+### [10월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/10%EC%9B%94%EC%9D%98%20Miracle.md)
+
+![](./img/2022_10.png) 
+
+
+
 ### [9월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/9%EC%9B%94%EC%9D%98%20Miracle.md)
 
 #### 9월 19일 ~ 9월 30일
 
-![](./img/2022_09_02.png)
+![](./img/2022_09_02.png) 
 
 
 #### 9월 01일 ~ 9월 16일

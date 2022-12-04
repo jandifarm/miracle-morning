@@ -6,6 +6,8 @@
 
 ### [11월 🌞](https://github.com/jandifarm/miracle-morning/blob/main/22%EB%85%84%20miracle-morning/11%EC%9B%94%EC%9D%98%20Miracle.md)
 
+![](./img/2022_11_02.png) 
+
 ![](./img/2022_11.png) 
 
 
